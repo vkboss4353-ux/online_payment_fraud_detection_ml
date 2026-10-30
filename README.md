@@ -197,6 +197,6 @@ Through this project, I gained practical experience in:
 
 ## 👨‍💻 Author
 
-**Vishal Kumar**
+**Ram Vishal Manoj**
 
 Engineering Student | Machine Learning | Data Analytics | Cybersecurity
